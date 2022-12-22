@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:901D36,100:F1242A&height=150&section=header&stroke=000000&fontColor=FFFF&text=%20Jessie%20Lady's%20Space&fontSize=60&animation=blink" />
-  <a href="https://www.youtube.com/watch?v=_eFRFQKIt_I" target="_blank">
+  <a href="https://www.youtube.com/watch?v=_eFRFQKIt_I">
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:27DBD5,100:0D9692&height=50&section=header&stroke=000000&fontColor=901D36&text=%20Girl,%20put%20your%20records%20on%20🎵%20첫사랑&fontSize=30&animation=blink" /></a>
  </p>
  
@@ -9,7 +9,7 @@
 <h1>Olá! 🇧🇷 | Hello! 🇺🇸 | Hallo! 🇩🇪 | 안녕하세요! 🇰🇷 </h1>
 </div>
 <div align="center">
-<h3>My social media ⤵</h3>
+<h3>Social media ⤵</h3>
 </div>
 <div align="center">
 <a href="https://www.instagram.com/jessielady19/">
@@ -39,7 +39,7 @@ located_in: Rio de janeiro, Brazil
 age: 24
 height: 5,66 ft (1,69 cm)
 zodiac_sign: Pisces
-personal_skills: Self-Tough | Creativity | Copywriting | Mindfulness | Professional Organization | Leadership
+personal_skills: Self-Tough | Creativity | Copywriting | Mindfulness | Professional Organization
 fluency: Brazilian Portuguese, English
 
 I'm currently studying to become a Fullstack Developer.
@@ -50,7 +50,7 @@ courses I'm taking:
     "Creative Writing",
     "Python",
     "Auto Makeup",
-    "Korean (한국어)",
+    "Korean (한글)",
     "German (Deutsch)"
     "Brazilian Sign Language",
   ]
