@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:901D36,100:F1242A&height=150&section=header&stroke=000000&fontColor=FFFF&text=%20Jessie%20Lady's%20Space&fontSize=60&animation=blink" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:901D36,100:F1242A&height=150&section=header&stroke=000000&fontColor=FFFF&text=%20Lady%20Jessie's%20Space&fontSize=60&animation=blink" />
   <a href="https://www.youtube.com/watch?v=_eFRFQKIt_I">
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:27DBD5,100:0D9692&height=50&section=header&stroke=000000&fontColor=901D36&text=%20Girl,%20put%20your%20records%20on%20🎵%20첫사랑&fontSize=30&animation=blink" /></a>
  </p>
