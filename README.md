@@ -12,7 +12,7 @@
 <h3>Social media ⤵</h3>
 </div>
 <div align="center">
-<a href="https://www.instagram.com/jessielady19/">
+<a href="https://www.instagram.com/lady_jessie19/">
   <img height="50" src="https://user-images.githubusercontent.com/106931747/209094497-85dcce3b-68a7-4c25-8c13-71ff54dae73f.png"/>
 </a>
 <a href="https://medium.com/@jessie_moura">
