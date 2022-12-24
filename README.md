@@ -99,9 +99,9 @@ ramdom_info: {
 </p>
 <h2> 📈 &nbsp;My GitHub History!</h2>
 <div align="center">
-<a href="https://github.com/JessieLady">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JessieLady&theme=noctis_minimus&show_icons=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JessieLady&theme=noctis_minimus&layout=compact" />
+<a href="https://github.com/LadyJessieM">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LadyJessieM&theme=noctis_minimus&show_icons=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LadyJessieM&theme=noctis_minimus&layout=compact" />
 </a>
 </div>
 <p align="center">
