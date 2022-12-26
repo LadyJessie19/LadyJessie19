@@ -101,7 +101,7 @@ ramdom_info: {
 <div align="center">
 <a href="https://github.com/LadyJessieM">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LadyJessie19&theme=noctis_minimus&show_icons=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LadyJessie19&theme=noctis_minimus&layout=compact" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LadyJessie19&theme=noctis_minimus&layout=compact" />
 </a>
 </div>
 <p align="center">
