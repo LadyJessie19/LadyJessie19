@@ -58,7 +58,7 @@ courses I'm taking:
 short-time_goals:
   [
     "Graduate myself as a Fullstack Developer in October/2023",
-    "Pay for my sisters' college",
+    "Pay for my sister's college",
     "Go live in Seoul, South Korea",
     "Finish and publish my book",
   ]
@@ -100,8 +100,8 @@ ramdom_info: {
 <h2> 📈 &nbsp;My GitHub History!</h2>
 <div align="center">
 <a href="https://github.com/LadyJessieM">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LadyJessieM&theme=noctis_minimus&show_icons=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LadyJessieM&theme=noctis_minimus&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LadyJessie19&theme=noctis_minimus&show_icons=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LadyJessie19&theme=noctis_minimus&layout=compact" />
 </a>
 </div>
 <p align="center">
