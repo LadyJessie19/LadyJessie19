@@ -99,7 +99,7 @@ ramdom_info: {
 </p>
 <h2> 📈 &nbsp;My GitHub History!</h2>
 <div align="center">
-<a href="https://github.com/LadyJessieM">
+<a href="https://github.com/LadyJessie19">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LadyJessie19&theme=noctis_minimus&show_icons=true" />
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LadyJessie19&theme=noctis_minimus&layout=compact" />
 </a>
