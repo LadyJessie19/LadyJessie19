@@ -45,7 +45,7 @@ fluency: Brazilian Portuguese, English
 I'm currently studying to become a Fullstack Developer.
 At my formation, I'm going to learn: HTML | CSS | JavaScript | Typescript | React | Node.js | Express | Nest | TypeORM
 
-courses I'm taking: 
+courses_I'm_taking: 
   [
     "Creative Writing",
     "Python",
