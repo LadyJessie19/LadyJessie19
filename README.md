@@ -102,6 +102,7 @@ ramdom_info: {
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" alt="eslint" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="45" height="45"/>
+<i class="devicon-github-original" font-size="16px"></i>
  
 </p>
 <h2> 📈 &nbsp;My GitHub History!</h2>
