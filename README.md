@@ -35,7 +35,7 @@
 
 ```yaml
 name: Jessica Moura
-located_in: Rio de janeiro, Brazil
+located_in: Rio de Janeiro, Brazil
 age: 24
 height: 5,66 ft (1,69 cm)
 zodiac_sign: Pisces
@@ -57,7 +57,7 @@ courses_I'm_taking:
 
 short-time_goals:
   [
-    "Graduate myself as a Fullstack Developer in October/2023",
+    "Graduate me as a Fullstack Developer in October/2023",
     "Pay for my sister's college",
     "Go live in Seoul, South Korea",
     "Finish and publish my book",
@@ -73,7 +73,7 @@ hobbies: ["Gaming", "Cinema", "Writing", "Art"]
 
 places_to_visit: ["South Korea", "Scotland", "Spain", "India"]
 
-ramdom_info: {
+random_info: {
   favorite_food: Pizza 🍕
   favorite_fruit: Mango 🥭
   favorite_soda: Pepsi 🥤
@@ -85,6 +85,7 @@ ramdom_info: {
   favorite_word: "Clever"(because of the sound!) 😉
   favorite_song: "Panic - The Smiths" 🎶
   favorite_band: "Your royal majesty, Queen!" 👑
+}
 ```
 <hr>
 <h2> 🚀 &nbsp;Tools I've learned so far:</h2>
