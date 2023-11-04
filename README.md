@@ -1,5 +1,7 @@
 # Olá! 🇧🇷 | Hello! 🇺🇸 | Hallo! 🇩🇪 | 안녕하세요! 🇰🇷
 
+<img align="right" width="300" src="https://media.discordapp.net/attachments/989709324647534602/1170469876884836423/Design_sem_nome_2.png?ex=65592804&is=6546b304&hm=7022cf394ba5ddd2c90beceb2d4a205262bb2d510d0a2b7cabeab618a0675d4e&=" />
+
 ## I'm introduced as Jessica. 👋😊
 
 I'm a Brazillian-based Fullstack Developer with a passion for creativity and coding. My journey in the world of technology has been an exciting one, and I'm always eager to learn and explore new possibilities.
