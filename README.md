@@ -1,130 +1,105 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:901D36,100:F1242A&height=150&section=header&stroke=000000&fontColor=FFFF&text=%20Lady%20Jessie's%20Space&fontSize=60&animation=blink" />
-  <a href="https://www.youtube.com/watch?v=_eFRFQKIt_I">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:27DBD5,100:0D9692&height=50&section=header&stroke=000000&fontColor=901D36&text=%20Girl,%20put%20your%20records%20on%20🎵%20첫사랑&fontSize=30&animation=blink" /></a>
- </p>
- 
-<hr>
-<div align="center">
-<h1>Olá! 🇧🇷 | Hello! 🇺🇸 | Hallo! 🇩🇪 | 안녕하세요! 🇰🇷 </h1>
-</div>
-<div align="center">
-<h3>Social media ⤵</h3>
-</div>
-<div align="center">
-<a href="https://www.instagram.com/lady_jessie19/">
-  <img height="50" src="https://user-images.githubusercontent.com/106931747/209094497-85dcce3b-68a7-4c25-8c13-71ff54dae73f.png"/>
-</a>
-<a href="https://medium.com/@jessie_moura">
-  <img height="50" src="https://user-images.githubusercontent.com/106931747/209095061-1e8429d6-b907-4a27-9012-8828186dec81.png"/>
-</a>
-<a href="https://www.linkedin.com/in/jessiemoura19/">
-  <img height="50" src="https://user-images.githubusercontent.com/106931747/209045671-b2c91564-024d-4ad5-bc5c-6a159e938b6d.png"/>
-</a>
-<div align="center">
-  <h4><em>Audaces Fortuna Juvat</em></h4>
-</div>
-</div>
-<div align="center">
-<img width="500" src="https://media4.giphy.com/media/B0XEhdoeRleTe/giphy.gif?cid=ecf05e47x5570sam9dpzkmk9p23iewmseffsbr7dqapufv18&rid=giphy.gif&ct=g"/>
-</div>
-<hr>
-<div align="center">
-<h2><del>NOT THAT YOU ASKED,😆</del> but here're a few things about me:</he>
-</div>
+# Olá! 🇧🇷 | Hello! 🇺🇸 | Hallo! 🇩🇪 | 안녕하세요! 🇰🇷
 
-```yaml
-name: Jessica Moura
-located_in: Rio de Janeiro, Brazil
-age: 24
-height: 5,66 ft (1,69 cm)
-zodiac_sign: Pisces
-personal_skills: Self-Tough | Creativity | Copywriting | Mindfulness | Professional Organization
-fluency: Brazilian Portuguese, English
+## I'm introduced as Jessica. 👋😊
 
-I'm currently studying to become a Fullstack Developer.
-At my formation, I'm going to learn: HTML | CSS | JavaScript | Typescript | React | Node.js | Express | Nest | TypeORM
+I'm a Brazillian-based Fullstack Developer with a passion for creativity and coding. My journey in the world of technology has been an exciting one, and I'm always eager to learn and explore new possibilities.
 
-courses_I'm_taking: 
-  [
-    "Creative Writing",
-    "Python",
-    "Auto Makeup",
-    "Korean (한글)",
-    "German (Deutsch)"
-    "Brazilian Sign Language",
-  ]
+🌍 I'm fluent in Brazilian Portuguese and American English.
 
-short-time_goals:
-  [
-    "Graduate me as a Fullstack Developer in October/2023",
-    "Pay for my sister's college",
-    "Go live in Seoul, South Korea",
-    "Finish and publish my book",
-  ]
-  
-long-time_goals:
-  [
-    "Build a shelter for abandoned animals",
-    "Build a nursing home for the elderly people",
-  ]
-  
-hobbies: ["Gaming", "Cinema", "Writing", "Art"]
+💻 Currently, I serve as a Spring Boot/Java Backend Developer during the day and take on the role of a Node.js monitor by night. In my daily work, I proficiently utilize a diverse range of technologies, including Java, JavaScript, SQL, Node.js, and more.
 
-places_to_visit: ["South Korea", "Scotland", "Spain", "India"]
+📚 Apart from coding, I'm also a student of life, taking courses in subjects like Creative Writing, Brazilian Sign Language, and even learning languages like Korean and German.
 
-random_info: {
-  favorite_food: Pizza 🍕
-  favorite_fruit: Mango 🥭
-  favorite_soda: Pepsi 🥤
-  favorite_color: aquamarine 💧
-  favorite_movie: "The Count of Monte Cristo" 🗡
-  favorite_game: "Resident Evil: Code Veronica" 🌂
-  favorite_TvShow: "Squid Game" 🐙
-  favorite_writer: Brandon Sanderson 🎭
-  favorite_word: "Clever"(because of the sound!) 😉
-  favorite_song: "Panic - The Smiths" 🎶
-  favorite_band: "Your royal majesty, Queen!" 👑
-}
-```
-<hr>
-<h2> 🚀 &nbsp;Tools I've learned so far:</h2>
+💡 When I'm not coding, you'll find me indulging in my hobbies, such as gaming, cinema, writing, and art. I'm also an aspiring author with the dream of publishing my own book someday.
+
+⚓ My vision extends beyond the world of technology. I aspire to build a shelter for abandoned animals and a nursing home for the elderly, among other long-term goals.
+
+Feel free to explore my GitHub to see the tools and technologies I've worked with. Don't hesitate to connect with me on my social media or reach out for collaboration and conversation.
+
+Let's make the digital world a better place one code at a time! 🤗
+
+📫 Reach me here:
+- [Instagram](https://www.instagram.com/lady_jessie19/)
+- [Medium](https://medium.com/@jessie_moura)
+- [LinkedIn](https://www.linkedin.com/in/jessiemoura19/)
+
+🚀 Tools and Technologies:
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" alt="eslint" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" alt="heroku" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="trello" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" alt="yarn" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angularjs" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="expressjs" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="jest" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jquery" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="materialui" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongodb" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="slack" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" alt="eslint" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" alt="heroku" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="trello" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" alt="yarn" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="expressjs" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="jest" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jquery" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="materialui" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongodb" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="Postgres" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
 </p>
-<h2> 📈 &nbsp;My GitHub History!</h2>
-<div align="center">
+
+📈 Check out my GitHub Stats below!
+
 <a href="https://github.com/LadyJessie19">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LadyJessie19&theme=noctis_minimus&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LadyJessie19&theme=noctis_minimus&layout=compact" />
 </a>
-</div>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:901D36,100:F1242A&height=100&section=footer"/>
-</p>
+
+# Random info: 😉
+
+```kotlin
+object Jessie_Moura {
+ val name = "Jessica Moura"
+ val acknowledgements = "Fullstack Developer | UX Designer"
+
+ val languages = listOf("JavaScript", "Java")
+
+ val shortTimeGoals = listOf(
+    "Move to Seoul, South Korea",
+    "Complete and publish my book"
+ )
+
+ val longTimeGoals = listOf(
+    "Build a shelter for abandoned animals",
+    "Establish a nursing home for the elderly"
+ )
+
+ val hobbies = listOf("Gaming", "Cinema", "Writing", "Art")
+
+ val placesToVisit = listOf("South Korea", "Scotland", "Spain", "India")
+
+ val randomInfo = mapOf(
+    "favorite_food" to "Pizza 🍕",
+    "favorite_color" to "Tiffany&Co Blue 💧",
+    "favorite_movie" to "The Count of Monte Cristo 🗡",
+    "favorite_game" to "Resident Evil: Code Veronica 🌂",
+    "favorite_TvShow" to "Squid Game 🐙",
+    "favorite_writer" to "Brandon Sanderson 🎭",
+    "favorite_word" to "Clever (because of the sound!) 😉",
+    "favorite_song" to "Feeling Good - Nina Simone 🎶",
+    "favorite_band" to "Your royal majesty, Queen! 👑"
+ )
+}
+```
