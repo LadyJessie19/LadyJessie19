@@ -20,12 +20,12 @@ Feel free to explore my GitHub to see the tools and technologies I've worked wit
 
 Let's make the digital world a better place one code at a time! 🤗
 
-📫 Reach me here:
+### 📫 Reach me here:
 - [Instagram](https://www.instagram.com/lady_jessie19/)
 - [Medium](https://medium.com/@jessie_moura)
 - [LinkedIn](https://www.linkedin.com/in/jessiemoura19/)
 
-🚀 Tools and Technologies:
+### 🚀 Tools and Technologies:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
@@ -62,14 +62,14 @@ Let's make the digital world a better place one code at a time! 🤗
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
 </p>
 
-📈 Check out my GitHub Stats below!
+### 📈 Check out my GitHub Stats below!
 
 <a href="https://github.com/LadyJessie19">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LadyJessie19&theme=noctis_minimus&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LadyJessie19&theme=noctis_minimus&layout=compact" />
 </a>
 
-# Random info: 😉
+### Random info: 😉
 
 ```kotlin
 object Jessie_Moura {
