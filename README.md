@@ -1,7 +1,5 @@
 # Olá! 🇧🇷 | Hello! 🇺🇸 | Hallo! 🇩🇪 | 안녕하세요! 🇰🇷
 
-<img align="right" width="300" src="https://media.discordapp.net/attachments/989709324647534602/1170469876884836423/Design_sem_nome_2.png?ex=65592804&is=6546b304&hm=7022cf394ba5ddd2c90beceb2d4a205262bb2d510d0a2b7cabeab618a0675d4e&=" />
-
 ## I'm introduced as Jessica. 👋😊
 
 I'm a Brazillian-based Fullstack Developer with a passion for creativity and coding. My journey in the world of technology has been an exciting one, and I'm always eager to learn and explore new possibilities.
@@ -21,11 +19,13 @@ Feel free to explore my GitHub to see the tools and technologies I've worked wit
 Let's make the digital world a better place one code at a time! 🤗
 
 ### 📫 Reach me here:
+
 - [Instagram](https://www.instagram.com/lady_jessie19/)
 - [Medium](https://medium.com/@jessie_moura)
 - [LinkedIn](https://www.linkedin.com/in/jessiemoura19/)
 
 ### 🚀 Tools and Technologies:
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
