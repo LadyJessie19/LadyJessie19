@@ -4,17 +4,9 @@
 
 I'm a Brazilian-based Fullstack Developer with a passion for creativity and coding. My journey in the world of technology has been an exciting one, and I'm always eager to learn and explore new possibilities.
 
-🌍 I'm fluent in Brazilian Portuguese and American English.
-
-💻 Currently, I serve as a Spring Boot/Java Backend Developer during the day and take on the role of a Nest.js teacher by night. In my daily work, I proficiently utilize a diverse range of technologies, including Java, JavaScript, SQL, Node.js, and more.
+💻 Currently, I serve as a Spring Boot Developer during the day and take on the role of a Nest.js teacher by night. In my daily work, I proficiently utilize a diverse range of technologies, including Java, JavaScript, React.js, MongoDB, SQL, AWS, Node.js, and more.
 
 🚀 Throughout my career, I've worked on a variety of projects that have honed my skills and expanded my knowledge. I developed a patient management system using React.js, Node.js, MongoDB, and Mongoose. I participated in a job application platform for programming positions using Nest.js, TypeORM, and PostgreSQL, marking my first team experience. I also created a contact platform for doctors and hospitals using Spring Boot and AWS, and a food ranking system using Spring Boot, MongoDB, Swagger, and Railway for deployment. Additionally, I worked on a service management system for an event company, leveraging Spring Boot, MySQL, and AWS, with development and staging environments, along with Cognito for authentication.
-
-📚 Apart from coding, I'm also a student of life, taking courses in subjects like Creative Writing, Brazilian Sign Language, and even learning languages like Korean and German.
-
-💡 When I'm not coding, you'll find me indulging in my hobbies, such as gaming, cinema, writing, and art. I'm also an aspiring author with the dream of publishing my own book someday.
-
-⚓ My vision extends beyond the world of technology. I aspire to build a shelter for abandoned animals and a nursing home for the elderly, among other long-term goals.
 
 Feel free to explore my GitHub to see the tools and technologies I've worked with. Don't hesitate to connect with me on social media or reach out for collaboration and conversation.
 
@@ -97,12 +89,12 @@ Let's make the digital world a better place one code at a time! 🤗
 ```kotlin
 object Jessie_Moura {
  val name = "Jessica Moura"
- val acknowledgements = "Fullstack Developer | UX Designer"
+ val acknowledgements = "Fullstack Developer | UX Designer | Fullstack Instructor"
 
- val languages = listOf("JavaScript", "Java")
+ val languages = listOf("JavaScript", "Java", "SQL", "C")
 
  val shortTimeGoals = listOf(
-    "Move to Seoul, South Korea",
+    "Visit Seoul, South Korea",
     "Complete and publish my book"
  )
 
@@ -120,7 +112,7 @@ object Jessie_Moura {
     "favorite_color" to "Tiffany&Co Blue 💧",
     "favorite_movie" to "The Count of Monte Cristo 🗡",
     "favorite_game" to "Resident Evil: Code Veronica 🌂",
-    "favorite_TvShow" to "Squid Game 🐙",
+    "favorite_TvShow" to "The Chosen ✝",
     "favorite_writer" to "Brandon Sanderson 🎭",
     "favorite_word" to "Clever (because of the sound!) 😉",
     "favorite_song" to "Feeling Good - Nina Simone 🎶",
