@@ -97,7 +97,7 @@ object Jessie_Moura {
  val languages = listOf("JavaScript", "Java", "SQL", "C")
 
  val shortTimeGoals = listOf(
-    "Achieve Mid-Level seniority as a software developer.",
+    "Achieve Mid-Level seniority as a software developer",
     "Buy my own house",
     "Complete and publish my book"
  )
