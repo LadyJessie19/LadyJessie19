@@ -14,9 +14,12 @@ Let's make the digital world a better place one code at a time! 🤗
 
 ### 📫 Reach me here:
 
-- [Instagram](https://www.instagram.com/lady_jessie19/)
-- [Medium](https://medium.com/@jessie_moura)
-- [LinkedIn](https://www.linkedin.com/in/jessiemoura19/)
+<a href="mailto:jessie.moura19@gmail.com"> <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.instagram.com/lady_jessie19/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://medium.com/@jessie_moura" target="_blank"><img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white"></a>
+<a href="https://jessie-bentes.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-1E1E1E?style=for-the-badge&logo=vercel&logoColor=magenta"></a>
+<a href="https://www.linkedin.com/in/jessiemoura19/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
+<a href="https://discord.com/channels/@me"> <img src="https://img.shields.io/badge/Discord-5566E4?style=for-the-badge&logo=discord&logoColor=white"></a>
 
 ### 🚀 Tools and Technologies:
 
@@ -74,7 +77,8 @@ Let's make the digital world a better place one code at a time! 🤗
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original.svg" alt="tomcat" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" alt="vercel" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original.svg" alt="vite" width="45" height="45" />
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/62091613/261395532-b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35.png" alt="vite" width="45" height="45" />
+  <img src="https://user-images.githubusercontent.com/25181517/190229463-87fa862f-ccf0-48da-8023-940d287df610.png" alt="lombok" width="45" height="45" />
 </p>
 
 ### 📈 Check out my GitHub Stats below!
@@ -88,13 +92,14 @@ Let's make the digital world a better place one code at a time! 🤗
 
 ```kotlin
 object Jessie_Moura {
- val name = "Jessica Moura"
+ val name = "Jessica Moura Bentes"
  val acknowledgements = "Fullstack Developer | UX Designer | Fullstack Instructor"
 
  val languages = listOf("JavaScript", "Java", "SQL", "C")
 
  val shortTimeGoals = listOf(
-    "Visit Seoul, South Korea",
+    "Achieve Mid-Level seniority as a software developer.",
+    "Buy my own house",
     "Complete and publish my book"
  )
 
@@ -103,7 +108,7 @@ object Jessie_Moura {
     "Establish a nursing home for the elderly"
  )
 
- val hobbies = listOf("Gaming", "Cinema", "Writing", "Art")
+ val hobbies = listOf("Gaming", "Cinema", "Writing")
 
  val placesToVisit = listOf("South Korea", "Scotland", "Spain", "India")
 
