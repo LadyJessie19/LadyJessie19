@@ -84,9 +84,8 @@ Let's make the digital world a better place one code at a time! 🤗
 ### 📈 Check out my GitHub Stats below!
 
 <a href="https://github.com/LadyJessie19">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LadyJessie19&theme=noctis_minimus&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LadyJessie19&theme=noctis_minimus&layout=compact" />
-</a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LadyJessie19&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LadyJessie19&layout=compact&theme=neon" /></a>
 
 ### Random info: 😉
 
