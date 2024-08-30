@@ -97,12 +97,14 @@ object Jessie_Moura {
  val languages = listOf("JavaScript", "Java", "SQL", "C")
 
  val shortTimeGoals = listOf(
-    "Achieve Mid-Level seniority as a software developer",
-    "Buy my own house",
-    "Complete and publish my book"
+    "Obtain my AWS certification",
+    "Write a book on best coding practices",
+    "Attend an in-person developer bootcamp"
  )
 
  val longTimeGoals = listOf(
+    "Contribute to open-source projects",
+    "Lead a team on significant projects",
     "Build a shelter for abandoned animals",
     "Establish a nursing home for the elderly"
  )
