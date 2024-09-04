@@ -18,8 +18,8 @@ Let's make the digital world a better place one code at a time! 🤗
 <a href="https://www.instagram.com/lady_jessie19/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://medium.com/@jessie_moura" target="_blank"><img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white"></a>
 <a href="https://jessie-bentes.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-1E1E1E?style=for-the-badge&logo=vercel&logoColor=magenta"></a>
-<a href="https://www.linkedin.com/in/jessiemoura19/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://discord.com/channels/@me" target="_blank"> <img src="https://img.shields.io/badge/Discord-5566E4?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/jessiemoura/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://discord.com/channels/@me?nickname=ladyjessie" target="_blank"> <img src="https://img.shields.io/badge/Discord-5566E4?style=for-the-badge&logo=discord&logoColor=white"></a>
 
 ### 🚀 Tools and Technologies:
 
