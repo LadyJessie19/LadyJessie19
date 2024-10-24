@@ -1,7 +1,5 @@
 # Olá! 🇧🇷 | Hello! 🇺🇸 | Hallo! 🇩🇪 | 안녕하세요! 🇰🇷
 
-aula - aula - aula
-
 ## I'm introduced as Jessica. 👋😊
 
 I'm a Brazilian-based Fullstack Developer with a passion for creativity and coding. My journey in the world of technology has been an exciting one, and I'm always eager to learn and explore new possibilities.
